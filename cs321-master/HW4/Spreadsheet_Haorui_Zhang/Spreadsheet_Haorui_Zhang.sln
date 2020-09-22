@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_UI", "Spreadsheet_UI.csproj", "{17869E5C-360A-431B-9548-F379D1DF23D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheet_LogicEngine", "..\SpreadSheet_LogicEngine\SpreadSheet_LogicEngine.csproj", "{BF8E4C9F-8BD8-42C4-977F-D86209681264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17869E5C-360A-431B-9548-F379D1DF23D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17869E5C-360A-431B-9548-F379D1DF23D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17869E5C-360A-431B-9548-F379D1DF23D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17869E5C-360A-431B-9548-F379D1DF23D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8E4C9F-8BD8-42C4-977F-D86209681264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8E4C9F-8BD8-42C4-977F-D86209681264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8E4C9F-8BD8-42C4-977F-D86209681264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8E4C9F-8BD8-42C4-977F-D86209681264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843945F5-F24E-4433-858D-AEBDB5B5D3CE}
+	EndGlobalSection
+EndGlobal
